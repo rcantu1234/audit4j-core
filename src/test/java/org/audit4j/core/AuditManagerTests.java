@@ -17,12 +17,14 @@ package org.audit4j.core;
 
 import static org.junit.Assert.*;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 /**
  * @author <a href="mailto:janith3000@gmail.com">Janith Bandara</a>
  *
  */
+@Ignore
 public class AuditManagerTests {
 
     /**

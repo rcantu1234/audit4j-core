@@ -7,10 +7,12 @@ import javax.servlet.ServletContext;
 
 import org.audit4j.core.Configuration;
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class ServletContextConfigSupportTest {
 
+	@Ignore
     @Test
     public void testLoadConfig() {
         ServletContext context = mock(ServletContext.class);

@@ -57,6 +57,12 @@ public final class AuditManager implements IAuditManager {
         return true;
     }
     
+    /*
+     * 
+     * 
+     * 
+     */
+    
     /**
      * Audit batch of events.
      * 
